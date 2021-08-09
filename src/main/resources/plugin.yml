@@ -1,0 +1,5 @@
+name: LifeCount
+version: ${project.version}
+main: me.mainhub.lifecount.LifeCount
+api-version: 1.17
+description: A simple lives system
